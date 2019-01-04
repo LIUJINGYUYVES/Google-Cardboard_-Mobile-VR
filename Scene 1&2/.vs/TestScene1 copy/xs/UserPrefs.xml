@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F9B87A9D-3B7F-1E61-80C1-46A676292D99}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scripts/ProgressBarInteractable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Scripts/FloorInteractable.cs" Line="43" Column="10" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/Scripts/ProgressBarInteractable.cs" Line="84" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
